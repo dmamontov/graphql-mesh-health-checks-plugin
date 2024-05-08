@@ -1,0 +1,1 @@
+# graphql-mesh-health-checks-plugin
